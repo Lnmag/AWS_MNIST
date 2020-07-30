@@ -1,8 +1,9 @@
 
 # Convert handwritten digit into machine-readable one
 
-https://raw.githubusercontent.com/Lnmag/DSTI/master/20200730_Drawing_convert_app_handwriting_digit.PNG
 
+
+<img width=“964” alt=“java 8 and prio java 8  array review example” src=“https://raw.githubusercontent.com/Lnmag/DSTI/master/20200730_Drawing_convert_app_handwriting_digit.PNG 38”>
 
 1) Need S3 bucket to get and store the handwriting candidate
 2) Need frond end EC2 machine, to have the web pages display on EC2 machine
