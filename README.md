@@ -7,8 +7,8 @@ https://raw.githubusercontent.com/Lnmag/DSTI/master/20200730_Drawing_convert_app
 
  ~~not good~~
  
- ![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+ ![drawing](https://raw.githubusercontent.com/Lnmag/DSTI/master/20200730_Drawing_convert_app_handwriting_digit.PNG)
+Format: ![xx](https://raw.githubusercontent.com/Lnmag/DSTI/master/20200730_Drawing_convert_app_handwriting_digit.PNG)
 
 
 1) Need S3 bucket to get and store the handwriting candidate
