@@ -1,8 +1,7 @@
 
 # Convert handwritten digit into machine-readable one
 
-test
-https://raw.githubusercontent.com/Lnmag/DSTI/master/Drawing_API.PNG
+20200730_Drawing_convert_app_handwriting_digit.PNG
 
 
 1) Need S3 bucket to get and store the handwriting candidate
