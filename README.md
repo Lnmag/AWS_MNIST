@@ -6,6 +6,10 @@
 https://raw.githubusercontent.com/Lnmag/DSTI/master/20200730_Drawing_convert_app_handwriting_digit.PNG
 
  ~~not good~~
+ 
+ ![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
 
 1) Need S3 bucket to get and store the handwriting candidate
 2) Need frond end EC2 machine, to have the web pages display on EC2 machine
